@@ -1,0 +1,5 @@
+<resources>
+    <string name="button_image_switch">Bild wechseln</string>
+    <string name="image_description_android">Android DE</string>
+    <string name="image_description_apple">Apple DE</string>
+</resources>
